@@ -2,5 +2,7 @@
 
 This is the first file in this repo.
 
-##WEbsite contents
-1.Index.html
+here are the file in the website
+
+##Website contents
+1.index.html
